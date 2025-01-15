@@ -1,3 +1,4 @@
 This is a test file.
 
 I am testing the git commands.
+This is another text in this file
